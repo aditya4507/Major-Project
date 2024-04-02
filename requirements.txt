@@ -100,9 +100,7 @@ notebook
 notebook_shim
 numpy
 oauthlib==3.2.2
-opencv-contrib-python==4.9.0.80
-opencv-python==4.6.0
-opencv-python-headless==4.9.0.80
+opencv-contrib-python
 opt-einsum==3.3.0
 overrides
 packaging==23.2
@@ -165,13 +163,3 @@ tensorflow-macos==2.13.0
 tensorflow-metadata==1.14.0
 tensorflow-metal==1.0.1
 termcolor==2.4.0
-terminado
-tinycss2
-toml==0.10.2
-tomli
-toolz==0.12.1
-tornado
-tqdm==4.66.2
-traitlets
-twilio==9.0.2
-types-python-dateutil
