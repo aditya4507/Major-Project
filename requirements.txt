@@ -2,7 +2,7 @@
 
 
 ipykernel==6.29.3
-ipython==6.29.3
+ipython==8.17.2
 
 Markdown==3.6
 
