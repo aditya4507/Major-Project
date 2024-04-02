@@ -141,7 +141,6 @@ tensorflow-datasets
 tensorflow-estimator
 tensorflow
 tensorflow-metadata
-tensorflow-metal
 termcolor
 terminado
 tinycss2
