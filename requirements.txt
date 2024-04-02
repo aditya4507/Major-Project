@@ -110,9 +110,6 @@ pyasn1
 pyasn1_modules
 pycparser
 PyJWT
-pyobjc
-pyobjc-core
-pyobjc-framework-*
 pyparsing
 PySocks
 python-dateutil
