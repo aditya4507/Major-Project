@@ -1,6 +1,6 @@
 
 
-
+packaging==20.9
 ipykernel==6.29.3
 ipython==8.17.2
 
