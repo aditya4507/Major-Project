@@ -3,45 +3,45 @@ aiohttp==3.9.3
 aiohttp-retry==2.8.3
 aiosignal==1.3.1
 altair==5.2.0
-anyio
-appnope
-argon2-cffi
-argon2-cffi-bindings
+anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1708355285029/work
+appnope @ file:///home/conda/feedstock_root/build_artifacts/appnope_1707233003401/work
+argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1692818318753/work
+argon2-cffi-bindings @ file:///Users/runner/miniforge3/conda-bld/argon2-cffi-bindings_1695386747079/work
 array-record==0.4.0
-arrow
-asttokens
+arrow @ file:///home/conda/feedstock_root/build_artifacts/arrow_1696128962909/work
+asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1698341106958/work
 astunparse==1.6.3
-async-lru
+async-lru @ file:///home/conda/feedstock_root/build_artifacts/async-lru_1690563019058/work
 async-timeout==4.0.3
-attrs
-Babel
-backcall
-beautifulsoup4
-bleach
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1704011227531/work
+Babel @ file:///home/conda/feedstock_root/build_artifacts/babel_1702422572539/work
+backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
+beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1705564648255/work
+bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1696630167146/work
 blinker==1.7.0
-Brotli
-cached-property
+Brotli @ file:///Users/runner/miniforge3/conda-bld/brotli-split_1695989934239/work
+cached-property @ file:///home/conda/feedstock_root/build_artifacts/cached_property_1615209429212/work
 cachetools==5.3.3
-certifi
-cffi
-charset-normalizer
-click
-comm
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1707022139797/work/certifi
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1696001805520/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1698833585322/work
+click==8.1.7
+comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1710320294760/work
 contourpy==1.1.1
 cycler==0.12.1
-debugpy
-decorator
-defusedxml
+debugpy @ file:///Users/runner/miniforge3/conda-bld/debugpy_1707444582221/work
+decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
+defusedxml @ file:///home/conda/feedstock_root/build_artifacts/defusedxml_1615232257335/work
 dm-tree==0.1.8
 docopt==0.6.2
-entrypoints
+entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
 etils==1.3.0
-exceptiongroup
-executing
-fastjsonschema
+exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1704921103267/work
+executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1698579936712/work
+fastjsonschema @ file:///home/conda/feedstock_root/build_artifacts/python-fastjsonschema_1703780968325/work/dist
 flatbuffers==24.3.25
 fonttools==4.50.0
-fqdn
+fqdn @ file:///home/conda/feedstock_root/build_artifacts/fqdn_1638810296540/work/dist
 frozenlist==1.4.1
 gast==0.4.0
 gitdb==4.0.11
@@ -50,144 +50,17 @@ google-auth==2.29.0
 google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
 googleapis-common-protos==1.63.0
-grpcio
-h11
-h2
-h5py
+grpcio @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_7bxiys9u3r/croot/grpc-suite_1701982575666/work
+h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1664132893548/work
+h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1634280454336/work
+h5py @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/h5py_1637162753555/work
 hpack==4.0.0
-httpcore
-httpx
-hyperframe
-idna
-importlib_metadata
-importlib_resources
-ipykernel
+httpcore @ file:///home/conda/feedstock_root/build_artifacts/httpcore_1711596990900/work
+httpx @ file:///home/conda/feedstock_root/build_artifacts/httpx_1708530890843/work
+hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1619110129307/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1701026962277/work
+importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1710971335535/work
+importlib_resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1711040877059/work
+ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1708996616394/work
 ipython==8.12.3
-ipywidgets
-isoduration
-jedi
-Jinja2
-json5
-jsonpointer
-jsonschema
-jsonschema-specifications
-jupyter
-jupyter-console
-jupyter-events
-jupyter-lsp
-jupyter_client
-jupyter_core
-jupyter_server
-jupyter_server_terminals
-jupyterlab
-jupyterlab_pygments
-jupyterlab_server
-jupyterlab_widgets
-keras==2.13.1
-kiwisolver==1.4.5
-libclang==18.1.1
-Markdown==3.6
-markdown-it-py==3.0.0
-MarkupSafe
-matplotlib==3.7.5
-matplotlib-inline
-mdurl==0.1.2
-mistune
-multidict==6.0.5
-nbclient
-nbconvert
-nbformat
-nest_asyncio
-notebook
-notebook_shim
-numpy
-oauthlib==3.2.2
-opencv-contrib-python
-opt-einsum==3.3.0
-overrides
-packaging==23.2
-pandas
-pandocfilters
-parso
-pexpect
-pickleshare
-pillow==10.2.0
-pipreqs==0.5.0
-pkgutil_resolve_name
-platformdirs
-prometheus_client
-promise==2.3
-prompt-toolkit
-protobuf==3.20.3
-psutil
-ptyprocess
-pure-eval
-pyarrow==15.0.2
-pyasn1
-pyasn1_modules
-pycparser
-pydeck==0.8.1b0
-Pygments
-PyJWT==2.8.0
-pyobjc-core
-pyobjc-framework-Cocoa
-pyparsing==3.1.2
-PySocks
-python-dateutil
-python-json-logger
-pytz
-PyYAML
-pyzmq
-qtconsole
-QtPy
-referencing
-requests
-requests-oauthlib
-rfc3339-validator
-rfc3986-validator
-rich==13.7.1
-rpds-py
-rsa==4.9
-Send2Trash
-six
-smmap==5.0.1
-sniffio
-soupsieve
-stack-data
-streamlit==1.32.2
-streamlit-lottie==0.0.5
-tenacity==8.2.3
-tensorboard==2.13.0
-tensorboard-data-server==0.7.2
-tensorflow-datasets==4.9.2
-tensorflow-estimator==2.13.0
-tensorflow-macos==2.13.0
-tensorflow-metadata==1.14.0
-tensorflow-metal==1.0.1
-termcolor==2.4.0
-terminado
-tinycss2
-toml==0.10.2
-tomli
-toolz==0.12.1
-tornado
-tqdm==4.66.2
-traitlets
-twilio==9.0.2
-types-python-dateutil
-typing-utils
-typing_extensions
-tzdata
-uri-template
-urllib3
-watchdog==4.0.0
-wcwidth
-webcolors
-webencodings
-websocket-client
-Werkzeug==3.0.1
-widgetsnbextension
-wrapt==1.16.0
-yarg==0.1.9
-yarl==1.9.4
-zipp
+ipywidgets @ file:///home
