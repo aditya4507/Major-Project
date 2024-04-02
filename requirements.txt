@@ -7,7 +7,7 @@ ipython==8.17.2
 Markdown==3.6
 
 numpy==1.22.3
-protobuf==4.21
+protobuf
 opencv-contrib-python==4.9.0.80
 opencv-python==4.6.0.66
 opencv-python-headless==4.9.0.80
