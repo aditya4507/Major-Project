@@ -52,15 +52,4 @@ google-pasta==0.2.0
 googleapis-common-protos==1.63.0
 grpcio @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_7bxiys9u3r/croot/grpc-suite_1701982575666/work
 h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1664132893548/work
-h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1634280454336/work
-h5py @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/h5py_1637162753555/work
-hpack==4.0.0
-httpcore @ file:///home/conda/feedstock_root/build_artifacts/httpcore_1711596990900/work
-httpx @ file:///home/conda/feedstock_root/build_artifacts/httpx_1708530890843/work
-hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1619110129307/work
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1701026962277/work
-importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1710971335535/work
-importlib_resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1711040877059/work
-ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1708996616394/work
-ipython==8.12.3
-ipywidgets @ file:///home
+h2 @ file:///home/conda/feedstock
