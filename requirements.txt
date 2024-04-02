@@ -4,7 +4,7 @@ aiohttp-retry==2.8.3
 aiosignal==1.3.1
 altair==5.2.0
 anyio @ git+https://github.com/agronholm/anyio.git@c35dc7022c59a0b015f603c1e6afb029a47be3e6
-appnope @ file:///home/conda/feedstock_root/build_artifacts/appnope_1707233003401/work
+
 argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1692818318753/work
 argon2-cffi-bindings @ file:///Users/runner/miniforge3/conda-bld/argon2-cffi-bindings_1695386747079/work
 array-record==0.4.0
