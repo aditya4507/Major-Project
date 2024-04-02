@@ -139,7 +139,7 @@ tensorboard
 tensorboard-data-server
 tensorflow-datasets
 tensorflow-estimator
-tensorflow-macos
+tensorflow
 tensorflow-metadata
 tensorflow-metal
 termcolor
